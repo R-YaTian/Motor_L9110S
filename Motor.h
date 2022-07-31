@@ -10,9 +10,7 @@ class Motor{
 	Motor(int arg1,int arg2);
 	void Forward();
 	void Bakward();
-                 void Stop();
-  
+	void Stop();
   private:
-	
 };
 #endif
